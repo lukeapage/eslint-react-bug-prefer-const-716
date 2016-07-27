@@ -1,0 +1,15 @@
+{
+  "name": "eslint-react-bug-prefer-const",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint test.js"
+  },
+  "author": "agatronic <luke.a.page@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "eslint-plugin-react": "^5.2.2"
+  }
+}
