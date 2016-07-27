@@ -14,7 +14,7 @@
         "react"
     ],
     "rules": {
-        "prefer-const": "error"
+        "prefer-const": "error",
 	"react/jsx-uses-vars": "error"
     }
 }
